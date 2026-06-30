@@ -22,13 +22,13 @@ We focus on practical case support across blockchain transaction tracing, wallet
 
 This GitHub organization is used to publish selected public resources, templates, and tools related to digital asset risk management, blockchain forensic workflows, exchange review preparation, and incident response.
 
-Planned public resources include:
+Public resources include:
 
+- [Exchange Review & Appeal Preparation Kit](https://github.com/DeltaCapitalHK/exchange-review-appeal-kit) - bilingual materials for exchange account restrictions, risk-control reviews, withdrawal delays, source-of-funds requests, and appeal preparation.
 - Incident response checklists
 - Wallet risk review templates
 - Transaction tracing notes
 - Evidence preservation guides
-- Exchange account review preparation templates
 - Public education materials for digital asset fraud prevention
 - Lightweight open-source utilities for investigation workflows
 
