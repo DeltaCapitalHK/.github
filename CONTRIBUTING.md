@@ -1,6 +1,6 @@
 # Contributing
 
-Delta Capital HK may publish selected public resources and lightweight tools related to digital asset incident response, blockchain forensic workflows, exchange account review preparation, and risk awareness.
+Delta&Capital may publish selected public resources and lightweight tools related to digital asset incident response, blockchain forensic workflows, exchange account review preparation, and risk awareness.
 
 Contributions should be:
 

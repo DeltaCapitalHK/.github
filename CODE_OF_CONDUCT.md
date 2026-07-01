@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We expect respectful, professional, and lawful communication across Delta Capital HK public repositories.
+We expect respectful, professional, and lawful communication across Delta&Capital public repositories.
 
 Do not use issues, discussions, or pull requests to publish:
 

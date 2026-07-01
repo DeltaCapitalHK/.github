@@ -1,6 +1,6 @@
 # Security Policy
 
-If you believe you have found a security issue related to Delta Capital HK public repositories, websites, or published materials, please contact us through:
+If you believe you have found a security issue related to Delta&Capital public repositories, websites, or published materials, please contact us through:
 
 support@deltacapitalhk.com
 
