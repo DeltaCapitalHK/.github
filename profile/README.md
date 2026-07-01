@@ -25,6 +25,7 @@ This GitHub organization is used to publish selected public resources, templates
 Public resources include:
 
 - [Exchange Review & Appeal Preparation Kit](https://github.com/DeltaCapitalHK/exchange-review-appeal-kit) - bilingual materials for exchange account restrictions, risk-control reviews, withdrawal delays, source-of-funds requests, and appeal preparation.
+- [Digital Asset Incident Response Playbook](https://github.com/DeltaCapitalHK/digital-asset-incident-response-playbook) - bilingual materials for USDT scams, wallet theft, phishing approvals, evidence preservation, transaction tracing preparation, and exchange contact preparation.
 - Incident response checklists
 - Wallet risk review templates
 - Transaction tracing notes
@@ -52,6 +53,8 @@ Delta&Capital (德尔泰) does not provide financial, investment, or legal advic
 德尔泰（Delta&Capital）为数字资产相关事件提供链上交易分析、证据整理、风险评估、交易所账户限制/风控审核申诉支持、合规支持及追回流程协助。
 
 本 GitHub 组织主要用于发布公开资料、技术说明、流程模板和轻量级工具，帮助用户理解数字资产风险、链上取证流程、交易所审核材料准备及事件响应方法。
+
+当前公开资料包括交易所账户审核与申诉材料准备工具包，以及数字资产事件响应手册，覆盖 USDT 被骗、钱包被盗、授权钓鱼、链上证据保全、交易哈希整理和追回流程材料准备等场景。
 
 我们可协助整理材料并支持交易所或平台审核/申诉流程，但不承诺账户恢复、资金释放、资产追回或任何由交易所、平台、执法机构及其他第三方决定的结果。
 
